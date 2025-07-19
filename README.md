@@ -95,3 +95,4 @@ Conclusion
 This project showcases how CNNs are designed to work with image data efficiently and demonstrates their strength in recognizing visual patterns.
 
 OUTPUT : 
+<img width="826" height="501" alt="Image" src="https://github.com/user-attachments/assets/197c9edc-1ca7-410f-81c3-abf7a7b1b696" />
